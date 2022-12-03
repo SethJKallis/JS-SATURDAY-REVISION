@@ -1,0 +1,20 @@
+[
+    {
+        "year": 2018,
+        "make": "Toyota",
+        "modal": "Corolla",
+        "automatic": false
+    },
+    {
+        "year": 2001,
+        "make": "Porche",
+        "modal": "911 Turbo",
+        "automatic": true
+    },
+    {
+        "year": 2010,
+        "make": "BMW",
+        "modal": "M3",
+        "automatic": false
+    }
+]
